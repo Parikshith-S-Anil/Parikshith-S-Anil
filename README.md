@@ -69,7 +69,7 @@ Seeking an entry-level position in software and web development to apply my skil
 
 | Project                                        | Description                                                                                  |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [Virtual Mouse Using Hand Gestures](https://github.com/) | Developed a virtual mouse using Python and machine learning for hand gesture recognition.         |
+| [Virtual Mouse Using Hand Gestures](https://github.com/Parikshith-S-Anil/Virtual-Mouse) | Developed a virtual mouse using Python and machine learning for hand gesture recognition.         |
 | [College Enquiry and Assistance Chatbot](https://github.com/) | Created a chatbot using Python and machine learning to assist with college-related queries.       |
 | [Full-Stack Development Internship](https://github.com/)    | Completed a 15-day internship focusing on full-stack web development, gaining practical experience. |
 
