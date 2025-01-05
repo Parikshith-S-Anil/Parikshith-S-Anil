@@ -11,8 +11,8 @@ I'm Parikshith S, a passionate Software and Web Developer, eager to contribute t
 
 - Name: Parikshith S
 - Location: Kerala, India
-- Role: Aspiring Software Developer | Web Developer | Data Analyst
-- Education: B.Tech in Computer Science and Engineering at Vidya Academy of Science and Technology
+- Role: Aspiring Software Developer | Web Developer | Data Analyst | Application Developer
+- Education: B.Tech in Computer Science and Engineering at Vidya Academy of Science and Technology,Thiruvananthapuram
 - Interests: Full-Stack Development, Data Analysis, Machine Learning
 
 ---
