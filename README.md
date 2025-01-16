@@ -71,7 +71,7 @@ Seeking an entry-level position in software and web development to apply my skil
 |----------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | [Virtual Mouse Using Hand Gestures](https://github.com/Parikshith-S-Anil/Virtual-Mouse) | Developed a virtual mouse using Python and machine learning for hand gesture recognition.         |
 | [College Enquiry and Assistance Chatbot](https://github.com/Parikshith-S-Anil/chatbot) | Created a chatbot using Flutter and machine learning to assist with college-related queries.       |
-| [BMI calculator](https://github.com/)    | BMI calculator using flutter. |
+| [BMI calculator](https://github.com/Parikshith-S-Anil/BMI-calculator)    | BMI calculator using flutter. |
 
 ---
 
