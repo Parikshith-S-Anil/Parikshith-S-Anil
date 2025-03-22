@@ -73,7 +73,7 @@ Seeking an entry-level position in software and web development to apply my skil
 | [College Enquiry and Assistance Chatbot](https://github.com/Parikshith-S-Anil/chatbot) | Created a chatbot using Flutter and machine learning to assist with college-related queries.       |
 | [BMI calculator](https://github.com/Parikshith-S-Anil/BMI-calculator)    | BMI calculator using flutter. |
 | [Quizz_app](https://github.com/Parikshith-S-Anil/Quizz_app)    | Quiz app using flutter. |
-| [Dice app](https://github.com/Parikshith-S-Anil/Dice_app)    | BMI calculator using flutter. |
+| [Dice app](https://github.com/Parikshith-S-Anil/Dice_app)    | Dice App using flutter. |
 
 ---
 
