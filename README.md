@@ -68,35 +68,90 @@ Seeking an entry-level position in software and web development to apply my skil
 ## 💻 Projects
 
 | Project                                        | Description                                                                                  |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [Virtual Mouse Using Hand Gestures](https://github.com/Parikshith-S-Anil/Virtual-Mouse) | Developed a virtual mouse using Python and machine learning for hand gesture recognition.         |
-| [College Enquiry and Assistance Chatbot](https://github.com/Parikshith-S-Anil/chatbot) | Created a chatbot using Flutter and machine learning to assist with college-related queries.       |
-| [BMI calculator](https://github.com/Parikshith-S-Anil/BMI-calculator)    | BMI calculator using flutter. |
-| [Quizz_app](https://github.com/Parikshith-S-Anil/Quizz_app)    | Quiz app using flutter. |
-| [Dice app](https://github.com/Parikshith-S-Anil/Dice_app)    | Dice App using flutter. |
+|----------------------------------------# 👋 Hi, I'm Parikshith S (Ramu)
+
+🎓 Computer Science Graduate | 💻 Junior .NET Developer  
+🚀 Passionate about Full Stack Development with ASP.NET Core & Angular  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology in Computer Science and Engineering**  
+Vidya Academy of Science and Technology, Kilimanoor, Kerala  
+**November 2021 – July 2025** | **CGPA:** 7.01 / 10  
+
+**Higher Secondary Education**  
+CPHSS Kuttikkadu Kadakkal, Kerala State Board  
+**Passed:** 2021 | **Percentage:** 90.1%  
+
+**High School Education**  
+GVHSS Kadakkal, Kerala State Board  
+**Passed:** 2019 | **Percentage:** 98.89%
+
+---
+
+## 💻 Projects
+
+| Project | Description |
+|-------|------------|
+| [Virtual Mouse Using Hand Gestures](https://github.com/Parikshith-S-Anil/Virtual-Mouse) | Developed a virtual mouse system using hand gesture recognition. |
+| [College Enquiry and Assistance Chatbot (VEGA)](https://github.com/Parikshith-S-Anil/chatbot) | Flutter-based chatbot for college-related queries and guidance. |
+| [BMI Calculator](https://github.com/Parikshith-S-Anil/BMI-calculator) | Simple BMI calculator application built using Flutter. |
+| [Quiz App](https://github.com/Parikshith-S-Anil/Quizz_app) | Interactive quiz application developed using Flutter. |
+| [Dice App](https://github.com/Parikshith-S-Anil/Dice_app) | Dice rolling application created using Flutter. |
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Backend & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0078D4?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🔹 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔹 Databases
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔹 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📜 Certifications
-<div>
-  <img src="https://img.shields.io/badge/Robotics_Internship-Completed-red?style=for-the-badge&color=000000" alt="Robotics Internship" />
-  <img src="https://img.shields.io/badge/Full_Stack_Development_Course-Completed-blue?style=for-the-badge&color=000000" alt="Full Stack Development Course" />
-  <img src="https://img.shields.io/badge/NIT_Calicut_Workshop-Participant-green?style=for-the-badge&color=000000" alt="NIT Calicut Workshop" />
-</div>
+
+- 🏅 Robotics Internship – Completed  
+- 🏅 Full Stack Development Course – Completed  
+- 🏅 NIT Calicut Technical Workshop – Participant  
 
 ---
 
 ## 🏆 Achievements
 
-- Participated in a workshop at NIT Calicut.
-- Completed a 7-day full-stack development course.
-- Completed a 15-day online internship program on Robotics.
+- Participated in a technical workshop at **NIT Calicut**
+- Completed a **Full Stack Development** training program
+- Successfully completed a **Robotics Internship**
 
 ---
 
 ## 📫 Contact Me
 
-Feel free to reach out to discuss potential opportunities or collaborations!
+📧 **Email:** parikshithanil000@gmail.com  
+📞 **Phone:** +91 8139822095  
 
-- Email: parikshithanil000@gmail.com
-- Phone: +91 8139822095
+---
+
+⭐ *Always eager to learn, build, and grow as a Full Stack .NET Developer.*
