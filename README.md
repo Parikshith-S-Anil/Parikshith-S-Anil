@@ -1,4 +1,4 @@
-# Hi there 👋
+ # Hi there 👋
 
 I'm Parikshith S, a passionate Software and Web Developer, eager to contribute to innovative projects. With a strong foundation in programming and a commitment to continuous learning, I aim to create impactful software solutions.
 
