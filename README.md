@@ -1,157 +1,174 @@
- # Hi there 👋
+# 👋 Hi, I'm Parikshith S (Ramu)
 
-I'm Parikshith S, a passionate Software and Web Developer, eager to contribute to innovative projects. With a strong foundation in programming and a commitment to continuous learning, I aim to create impactful software solutions.
+🎓 Computer Science Graduate | 💻 Junior Software Developer (.NET)  
+🚀 Passionate about Full Stack Development with ASP.NET Core, Angular, and Enterprise Applications
 
-<a href="https://linkedin.com/in/Parikshith Anil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:parikshithanil000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="left">
+  <a href="https://linkedin.com/in/parikshith-anil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:parikshithanil000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- Name: Parikshith S
-- Location: Kerala, India
-- Role: Aspiring Software Developer | Web Developer | Data Analyst | Application Developer
-- Education: B.Tech in Computer Science and Engineering at Vidya Academy of Science and Technology,Thiruvananthapuram
-- Interests: Full-Stack Development, Data Analysis, Machine Learning
+- 💼 Currently working as **Junior Software Developer (.NET)** at Distinct Infotech Solutions, Kochi
+- 🌱 Skilled in ASP.NET Core, ASP.NET MVC, Angular, C#, SQL Server, Oracle, and REST APIs
+- 🔍 Passionate about Full Stack Development, Enterprise Applications, AI-Assisted Development, and Problem Solving
+- 🤝 Enjoy building scalable software solutions and learning new technologies
+- 🚀 Actively enhancing expertise in modern .NET technologies and software architecture
 
 ---
 
-## 💼 Career Summary
+## 💼 Work Experience
 
-Seeking an entry-level position in software and web development to apply my skills in programming, problem-solving, and innovative thinking.
+### 💻 Junior Software Developer (.NET)
+**Distinct Infotech Solutions, Kochi**  
+📅 Jan 2026 – Present
 
----
+- Developing and maintaining enterprise web applications using ASP.NET, C#, .NET Core, WebForms, SQL Server, Oracle, and JavaScript.
+- Working on AML Screening, Transaction Monitoring, Remittance, and Foreign Exchange modules.
+- Implementing business requirements, workflow enhancements, and regulatory validations.
+- Integrating third-party APIs and optimizing database performance.
+- Troubleshooting production issues and ensuring application reliability.
 
-## 🛠️ Skills
+### 🎯 .NET Full Stack Trainee
+**Quest Innovative Solutions Pvt Ltd, Trivandrum**  
+📅 Jul 2025 – Jan 2026
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=000000" alt="PHP" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&color=000000" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&color=000000" alt="Dart" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&color=000000" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&color=000000" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&color=000000" alt="Database" />
-    <img src="https://img.shields.io/badge/Team_Building-FFD700?style=for-the-badge&color=000000" alt="Team Building" />
-    <img src="https://img.shields.io/badge/Leadership-FF4500?style=for-the-badge&color=000000" alt="Leadership" />
-    <img src="https://img.shields.io/badge/Data_Analysis-1D3557?style=for-the-badge&color=000000" alt="Data Analysis" />
-  </div>
-</div>
+- Completed intensive training in .NET Full Stack Web Development.
+- Built web applications using ASP.NET Core MVC, Entity Framework Core, SQL Server, HTML, CSS, Bootstrap, and JavaScript.
+- Worked on complete Software Development Life Cycle (SDLC).
+- Collaborated with senior developers to deliver scalable solutions.
 
 ---
 
 ## 🎓 Education
 
-- B.Tech in Computer Science and Engineering  
-  Vidya Academy of Science and Technology, Kilimanoor, Kerala  
-  November 2021 – July 2025 | CGPA: 7.01/10
+### Bachelor of Technology (B.Tech) – Computer Science and Engineering
+**Vidya Academy of Science and Technology Technical Campus, Kilimanoor, Kerala**
 
-- Higher Secondary Education  
-  CPHSS Kuttikkadu Kadakkal, Kerala State Board  
-  Passed: 2021 | Percentage: 90.1%
+📅 2021 – 2025  
+🎯 CGPA: **7.32 / 10**
 
-- High School Education  
-  GVHSS Kadakkal, Kerala State Board  
-  Passed: 2019 | Percentage: 98.89%
+### Higher Secondary Education
+**CPHSS Kuttikkadu Kadakkal, Kerala State Board**
 
----
+📅 Passed: 2021  
+🎯 Percentage: **90.1%**
 
-## 💻 Projects
+### High School Education
+**GVHSS Kadakkal, Kerala State Board**
 
-| Project                                        | Description                                                                                  |
-|----------------------------------------# 👋 Hi, I'm Parikshith S (Ramu)
-
-🎓 Computer Science Graduate | 💻 Junior .NET Developer  
-🚀 Passionate about Full Stack Development with ASP.NET Core & Angular  
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science and Engineering**  
-Vidya Academy of Science and Technology, Kilimanoor, Kerala  
-**November 2021 – July 2025** | **CGPA:** 7.01 / 10  
-
-**Higher Secondary Education**  
-CPHSS Kuttikkadu Kadakkal, Kerala State Board  
-**Passed:** 2021 | **Percentage:** 90.1%  
-
-**High School Education**  
-GVHSS Kadakkal, Kerala State Board  
-**Passed:** 2019 | **Percentage:** 98.89%
-
----
-
-## 💻 Projects
-
-| Project | Description |
-|-------|------------|
-| [Virtual Mouse Using Hand Gestures](https://github.com/Parikshith-S-Anil/Virtual-Mouse) | Developed a virtual mouse system using hand gesture recognition. |
-| [College Enquiry and Assistance Chatbot (VEGA)](https://github.com/Parikshith-S-Anil/chatbot) | Flutter-based chatbot for college-related queries and guidance. |
-| [BMI Calculator](https://github.com/Parikshith-S-Anil/BMI-calculator) | Simple BMI calculator application built using Flutter. |
-| [Quiz App](https://github.com/Parikshith-S-Anil/Quizz_app) | Interactive quiz application developed using Flutter. |
-| [Dice App](https://github.com/Parikshith-S-Anil/Dice_app) | Dice rolling application created using Flutter. |
+📅 Passed: 2019  
+🎯 Percentage: **98.89%**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🔹 Backend & Frameworks
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-0078D4?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
+![Web_API](https://img.shields.io/badge/Web_API-0078D4?style=for-the-badge)
 
 ### 🔹 Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔹 Databases
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔹 Tools & Others
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔹 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+
+### 🔹 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-## 📜 Certifications
+## 💻 Projects
 
-- 🏅 Robotics Internship – Completed  
-- 🏅 Full Stack Development Course – Completed  
-- 🏅 NIT Calicut Technical Workshop – Participant  
+| Project | Description |
+|----------|------------|
+| **E-Shop Management System** | Full-stack e-commerce management system using ASP.NET Core MVC, Entity Framework Core, SQL Server, and ASP.NET Identity. |
+| **SANCHARI – Smart Transit System** | AI-assisted smart transit management platform with route, stop, and trip scheduling features. |
+| **Virtual Mouse Using Hand Gestures** | Python-based computer vision project for controlling cursor movement through hand gestures. |
+| **College Enquiry and Assistance Chatbot (VEGA)** | Flutter-based educational chatbot for student guidance and college-related assistance. |
+| **BMI Calculator** | Flutter application for Body Mass Index calculation. |
+| **Quiz App** | Interactive quiz application developed using Flutter. |
+| **Dice App** | Dice rolling application built using Flutter. |
 
 ---
 
-## 🏆 Achievements
+## 📜 Certifications & Training
 
-- Participated in a technical workshop at **NIT Calicut**
-- Completed a **Full Stack Development** training program
-- Successfully completed a **Robotics Internship**
+- 🏅 Full Stack .NET Development Training
+- 🏅 Robotics Internship
+- 🏅 NIT Calicut Technical Workshop Participant
+
+---
+
+## 🏆 Achievements & Activities
+
+- Volunteer, National Service Scheme (NSS)
+- Coordinated a College-Level Hackathon
+- Participated in Coding Competitions
+- Attended Technical Workshops
+- Built and Deployed Multiple Web Applications
+- Working on Enterprise Banking, AML, Remittance, and Forex Solutions
 
 ---
 
 ## 📫 Contact Me
 
 📧 **Email:** parikshithanil000@gmail.com  
-📞 **Phone:** +91 8139822095  
+📱 **Phone:** +91 8139822095  
+💼 **LinkedIn:** https://linkedin.com/in/parikshith-anil  
+💻 **GitHub:** https://github.com/Parikshith-S-Anil
 
 ---
 
-⭐ *Always eager to learn, build, and grow as a Full Stack .NET Developer.*
+### 📈 GitHub Stats
+
+```github
+https://github-readme-stats.vercel.app/api?username=Parikshith-S-Anil&show_icons=true&theme=tokyonight
+```
+
+```github
+https://github-readme-streak-stats.herokuapp.com/?user=Parikshith-S-Anil&theme=tokyonight
+```
+
+```github
+https://github-readme-stats.vercel.app/api/top-langs/?username=Parikshith-S-Anil&layout=compact&theme=tokyonight
+```
+
+---
+
+⭐ **Always eager to learn, build, and grow as a Full Stack .NET Developer.**
