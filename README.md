@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parikshith S (Ramu)
+# 👋 Hi, I'm Parikshith S 
 
 🎓 Computer Science Graduate | 💻 Junior Software Developer (.NET)  
 🚀 Passionate about Full Stack Development with ASP.NET Core, Angular, and Enterprise Applications
